@@ -24,4 +24,6 @@ public class Teste extends TestCase{
 		int resultado = calculadora.soma(2, 2);
 		assertNotEquals(resultado, 3);
 	}
+	
+	//teste
 }
